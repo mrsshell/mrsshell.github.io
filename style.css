@@ -1,0 +1,63 @@
+
+nav {
+display: inline-block;
+background-color: darkgreen;
+font-family: sans-serif;
+text-align: center;
+padding: 10px;
+width: 100vw;
+font-size: 18px;
+margin: auto;
+}
+
+nav a {
+margin:35px;
+
+}
+
+header {
+margin: 0 auto;
+}
+
+body {
+  width: 800px
+  height: 100%;
+  font-family: sans-serif;
+background-color: #4F7F10;
+margin: 0 auto;
+}
+
+header {
+text-align: center;
+color:9DFF21;
+background-color: 477F00;
+font-size:20px;
+display: block;
+}
+
+img {
+  display: block;
+}
+
+.centeredImage {
+margin: 0 auto;
+width: 800px;
+}
+
+.sidebutton {
+display: inline-block;
+padding-top: 10px;
+}
+
+section {
+display: inline-block;
+width: 640px;
+padding: 10px;
+}
+footer {
+width: 800px;
+background-color: black;
+color: white;
+display: block;
+text-align:center;}
+}

@@ -1,0 +1,22 @@
+img {
+  width:200px;
+  height:200px;
+  border: 10px solid #4B6D4D;
+}
+html {
+  height: 100%;
+}
+
+h1 {
+  font-size: 45px
+}
+
+.sub {
+  font-size: 30px;
+}
+
+article {
+  background-color: red;
+  }
+
+  
